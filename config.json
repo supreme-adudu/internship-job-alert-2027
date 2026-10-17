@@ -1,0 +1,12 @@
+{
+  "companies": ["Airbus", "Safran", "Thales", "Capgemini", "Sopra Steria", "CGI", "Orange", "Dassault Systèmes", "Worldline", "Eviden", "Naval Group", "Alten", "Akkodis", "Expleo", "Schneider Electric", "STMicroelectronics", "Valeo", "Michelin", "ArianeGroup", "CNES", "ONERA", "SII", "Sogeti", "Inetum", "Devoteam", "Amadeus", "Ubisoft", "OVHcloud", "Nokia", "Ericsson", "ST Engineering", "NCS", "DSTA", "Dyson", "Continental", "Bosch", "Siemens", "Atos", "Itron"],
+  "locations": ["france", "rennes", "nantes", "toulouse", "paris", "singapore", "united kingdom", "ireland", "canada", "australia"],
+  "skills": ["java", "spring", "python", "software", "backend", "full stack", "fullstack", "artificial intelligence", "machine learning", "data", "simulation", "3d", "aerospace", "cybersecurity", "embedded", "développement", "informatique"],
+  "internship_terms": ["intern", "internship", "stage", "stagiaire", "placement"],
+  "exclude_terms": ["alternance", "apprenticeship", "graduate program", "senior engineer"],
+  "preferred_month": "2027-06",
+  "minimum_score": 4,
+  "only_watchlisted_companies": false,
+  "greenhouse_boards": [],
+  "lever_sites": []
+}
